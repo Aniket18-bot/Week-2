@@ -28,7 +28,7 @@ This week focuses on building, training, and evaluating a deep learning model to
 
 ✅ Trained the model using:
 - EarlyStopping (patience = 3)
-- 15 epochs max
+- 5 epochs max
 - Batch size = 100  
 
 ✅ Evaluated performance:
